@@ -1,0 +1,16 @@
+Sender,Receiver,Summary (EN),Summary (DE)
+alice@example.com,bob@example.com,"Alice is reminding Bob about their meeting tomorrow at 10 AM to discuss project deadlines and deliverables. She is looking forward to his input. 
+","एलिस बॉब को कल सुबह 10 बजे होने वाली उनकी मीटिंग के बारे में याद दिला रही है, जिसमें प्रोजेक्ट की समय सीमा और डिलीवरेबल्स पर चर्चा होगी। वह उनके इनपुट का इंतज़ार कर रही है। 
+"
+charlie@example.com,dana@example.com,"Charlie is informing Dana that the first phase of the project is complete and they are scheduled to begin the second phase next week. He encourages Dana to reach out with any questions or concerns. 
+","चार्ली डाना को बता रहे हैं कि प्रोजेक्ट का पहला चरण पूरा हो गया है और अगले हफ्ते से दूसरा चरण शुरू होने वाला है। वह डाना को किसी भी प्रश्न या चिंता के लिए उनसे संपर्क करने के लिए प्रोत्साहित करते हैं। 
+"
+eve@example.com,frank@example.com,"Eve is requesting feedback from Frank on the presentation she sent him last week. She values his input as she finalizes the materials for the client meeting. 
+","ईव फ्रैंक से पिछले हफ्ते भेजी गई प्रेजेंटेशन पर फीडबैक मांग रही हैं।  वह क्लाइंट मीटिंग के लिए सामग्री को अंतिम रूप देने के लिए उनके इनपुट को बहुत महत्व देती हैं। 
+"
+grace@example.com,heidi@example.com,"Grace is checking in with Heidi about their upcoming vacation plans. She wants to confirm they are still on track to go next month and asks if there's anything specific Heidi wants to do or see during the trip. 
+","ग्रेस हेदी से उनकी आने वाली छुट्टियों के बारे में बात करने के लिए संपर्क कर रही हैं। वह यह सुनिश्चित करना चाहती हैं कि वे अगले महीने जाने के लिए अभी भी योजना बना रहे हैं, और पूछती हैं कि क्या हेदी यात्रा के दौरान कुछ खास करना या देखना चाहती हैं। 
+"
+isaac@example.com,jessica@example.com,"Isaac is following up with Jessica about the marketing proposal he sent her last week. He wants to know if she has had a chance to review it and is eager to hear her feedback. 
+","आइजैक पिछले हफ्ते भेजे गए मार्केटिंग प्रपोजल के बारे में जेसिका से बात करने के लिए संपर्क कर रहे हैं। वह जानना चाहते हैं कि क्या उन्होंने इसे देखने का मौका मिला है और उनकी प्रतिक्रिया सुनने के लिए उत्सुक हैं। 
+"
